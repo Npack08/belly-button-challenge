@@ -118,5 +118,4 @@ const optionChanged = selectedSubjectId => {
     generateBarChart(globalData, selectedSubjectId);
     generateBubbleChart(globalData, selectedSubjectId);
     generateIdCard(globalData, selectedSubjectId);
-    generateIdCard(globalData, selectedEthnicity);
 }
